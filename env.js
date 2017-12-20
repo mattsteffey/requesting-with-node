@@ -1,4 +1,3 @@
-
 module.exports = {
     key: "AIzaSyAmljvBeJvzJkKNHdj44RbfeYBLvrtM7oI",
     id: "000640803081465849812:3cwor5b722q"
